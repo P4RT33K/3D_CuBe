@@ -1,4 +1,4 @@
-## This is my new mini-project, 3D Cube under the series of [Experimantal](https://github.com/P4RT33K/Experimental)
+## This is my new mini-project, 3D Cube under the series of [Experimental](https://github.com/P4RT33K/Experimental)
 ### I made this made using HTML5 & CSS3.
 
 This project only uses CSS to create & animate 3D effect to a cube.
